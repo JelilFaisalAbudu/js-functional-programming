@@ -1,0 +1,16 @@
+{
+  "name": "javascript_funtional_programming",
+  "version": "1.0.0",
+  "description": "Learning to improve my JavaScript functional programming skills ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ES6",
+    "Functional-programming",
+    "JavaScript"
+  ],
+  "author": "Jelil Faisal Abudu",
+  "license": "ISC"
+}
