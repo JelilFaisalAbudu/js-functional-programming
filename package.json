@@ -4,6 +4,7 @@
   "description": "JavaScript functional programming and examples in ES6 ",
   "main": "index.js",
   "scripts": {
+    "playground": "babel-node playground/play.js --presets es2015-node",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -12,5 +13,9 @@
     "JavaScript"
   ],
   "author": "Jelil Faisal Abudu",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015-node": "^6.1.1"
+  }
 }
